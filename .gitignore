@@ -1,0 +1,52 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Archivo de configuración de usuario para IntelliJ IDEA
+.idea/workspace.xml
+
+# Archivo de configuración global de Gradle
+.gradle/
+
+# Archivos de respaldo de IntelliJ IDEA
+*~
+
+# Carpetas de caches
+.caches/
+
+# Carpeta generada por el compilador de Kotlin
+kotlin-compiled/
+
+# Archivo de configuración para proyectos de Kotlin
+*.kotlin_module
+
+# Archivos de configuración de Gradle
+.gradle/
+
+# Carpeta generada por el sistema de construcción de Gradle
+build/
+
+
+# Carpeta build generada por Gradle
+/build/
+
+# Archivo de configuración para proyectos con IntelliJ IDEA
+.idea/
+
+# Carpeta generada por Android Studio para archivos de construcción
+*.iml
+
+# Carpeta generada por IntelliJ IDEA
+out/
+
